@@ -8,6 +8,6 @@
  */
 int main(void)
 {	
-	write(STD_ERROR, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 101);
+	write(STDERR_FILENO, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 2);
 	return (1);
 }
