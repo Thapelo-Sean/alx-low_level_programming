@@ -6,7 +6,8 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{	char a;
+{
+	char a;
 	int w;
 	long int x;
 	long long int y;
