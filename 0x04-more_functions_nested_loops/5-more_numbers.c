@@ -3,7 +3,7 @@
 /**
  * more_numbers - nmbr fct
  *
- * Return: no return
+ * Return: no return.
  */
 
 void more_numbers(void)
